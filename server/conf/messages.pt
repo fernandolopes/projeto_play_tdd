@@ -1,0 +1,4 @@
+error.required=Este campo é obrigatório
+error.uniqueEmail=E-mail já cadastrado
+error.maxLength=Campo excedeu o limite de {0} caracteres
+error.email=E-mail inválido
